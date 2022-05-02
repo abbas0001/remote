@@ -1,0 +1,11 @@
+sleep 1
+echo user1 | sudo tee -a /etc/passwd ; sleep 1
+echo user2 | sudo tee -a /etc/passwd ; sleep 1
+echo user3 | sudo tee -a /etc/passwd ; sleep 1
+echo user4 | sudo tee -a /etc/passwd ; sleep 1
+echo user5 | sudo tee -a /etc/passwd ; sleep 1
+echo user6 | sudo tee -a /etc/passwd ; sleep 1
+echo user7 | sudo tee -a /etc/passwd ; sleep 1
+echo user8 | sudo tee -a /etc/passwd ; sleep 1
+echo user9 | sudo tee -a /etc/passwd ; sleep 1
+echo user10 | sudo tee -a /etc/passwd ; sleep 1
